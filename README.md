@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/MTF2021/RatnaRepo/_apis/build/status/paleruratna.SmartHotel360-Website?branchName=master)](https://dev.azure.com/MTF2021/RatnaRepo/_build/latest?definitionId=37&branchName=master)
 
 # Microsoft.Github CI Demo
 
